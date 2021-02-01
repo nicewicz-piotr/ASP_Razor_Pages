@@ -1,0 +1,12 @@
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\bin\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.deps.json
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\bin\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.dll
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\bin\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.pdb
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\bin\Debug\netstandard2.0\BibliotekaEncjiNorthwind.dll
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\bin\Debug\netstandard2.0\BibliotekaEncjiNorthwind.pdb
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\obj\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.csprojAssemblyReference.cache
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\obj\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\obj\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.AssemblyInfoInputs.cache
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\obj\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.AssemblyInfo.cs
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\obj\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.csproj.CopyComplete
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\obj\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.dll
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaKontekstuNorthwind\obj\Debug\netstandard2.0\BibliotekaKontekstuNorthwind.pdb

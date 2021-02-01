@@ -1,0 +1,35 @@
+@page
+@model NorthwindWeb.Pages.KlientModel
+
+<div class="jumbotron">
+    <a href="/klienci">Powrót do listy klientów</a>
+    <h1 class="display-2">Klient @Model.Klient.CustomerID</h1>
+    <p class="lead">1. Tytuł: @Model.Klient.ContactTitle</p>
+    <p class="lead">2. Kraj: @Model.Klient.Country</p>
+    <p class="lead">3. Telefon: @Model.Klient.Phone</p>
+    <p class="lead">4. Kod pocztowy: @Model.Klient.PostalCode</p>
+    <p class="lead">5. Region: @Model.Klient.Region</p>
+    <p class="lead">6. Nazwa firmy: @Model.Klient.CompanyName</p>
+
+    <div class="row">
+        <h1 class="display-4">Zamówienia</h1>
+        <table class="table">
+            <thead class="thead-inverse">
+                <tr>
+                    <th>ID zamówienia</th><th>Data zamówenia</th><th>Dostawa</th><th>Dostawca</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.Klient.Orders)
+                {
+                    <tr>
+                        <td>@item.OrderID</td>
+                        <td>@item.OrderDate.Value.ToShortDateString()</td>
+                        <td>@item.Freight</td>
+                        <td>@item.Shipper.CompanyName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

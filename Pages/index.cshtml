@@ -1,0 +1,19 @@
+@page
+@functions {
+    public string NazwaDnia { get; set; }
+    public void OnGet()
+    {
+        Model.NazwaDnia = DateTime.Now.ToString("dddd");
+        ViewData["Tytul"] = "Witryna WWW firmy Northwind";
+    }
+}
+
+            <div class="jumbotron">
+                <h1 class="display-3">Witaj w firmie Northwind!</h1>
+                <p class="lead">Dostarczamy produkty naszym klientom</p>
+                <hr/>
+                <p>Dzisiaj jest @Model.NazwaDnia Wśród naszych klientów znajdują się restauracje, hotele i przewoźnicy</p>
+                <p>
+                    <a class="btn btn-primary" href="https://www.asp.net/">Dowiedz się więcej</a>
+                </p>
+            </div>

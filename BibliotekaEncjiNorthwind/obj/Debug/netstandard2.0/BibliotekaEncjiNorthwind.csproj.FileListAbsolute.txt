@@ -1,0 +1,9 @@
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaEncjiNorthwind\bin\Debug\netstandard2.0\BibliotekaEncjiNorthwind.deps.json
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaEncjiNorthwind\bin\Debug\netstandard2.0\BibliotekaEncjiNorthwind.dll
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaEncjiNorthwind\bin\Debug\netstandard2.0\BibliotekaEncjiNorthwind.pdb
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.csprojAssemblyReference.cache
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.AssemblyInfoInputs.cache
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.AssemblyInfo.cs
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.dll
+C:\Users\Piotr\Documents\C# projects\ASP\BibliotekaEncjiNorthwind\obj\Debug\netstandard2.0\BibliotekaEncjiNorthwind.pdb
